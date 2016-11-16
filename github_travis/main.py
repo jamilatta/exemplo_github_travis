@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # coding: UTF-8
 
+from __future__ import print_function
+
 def soma(a, b):
     '''
     Função que soma a e b.
